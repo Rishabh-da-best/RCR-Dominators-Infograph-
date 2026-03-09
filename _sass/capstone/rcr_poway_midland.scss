@@ -2,15 +2,14 @@
 // Located in _sass/capstone/
 
 // Variables - Railroad heritage theme with RCR branding
-$rcr-pmr-primary: #8B4513;        // Saddle Brown - railroad ties/wood
-$rcr-pmr-secondary: #DAA520;       // Goldenrod - brass/railroad accents
-$rcr-pmr-accent: #2C5F2D;          // Forest Green - park/trees
-$rcr-pmr-warning: #B22222;         // Firebrick - stop/alert
-$rcr-pmr-light-bg: #FDF5E6;        // Old Lace - vintage paper background
-$rcr-pmr-card-bg: #FFFFFF;          // White for cards
-$rcr-pmr-text-dark: #2C1810;        // Dark brown for text
-$rcr-pmr-text-muted: #6B4F3F;       // Muted brown
-$rcr-pmr-railroad-gray: #4A4A4A;    // Gray for metal/rail accents
+$dd-primary: #125be0;        // Cyan — data/monitoring accent
+$dd-secondary: #704b14;      // Green — healthy/safe state
+$dd-warning: #ff6e40;        // Orange-red — alert/anomaly state
+$dd-dark-bg: #050d1a;        // Deep navy black background
+$dd-card-bg: #0a1628;        // Slightly lighter navy for cards
+$dd-text-muted: #0a3068;
+$dd-text-light: #d0e4f7;
+
 
 // Main Container
 .rcr-pmr-infograph {

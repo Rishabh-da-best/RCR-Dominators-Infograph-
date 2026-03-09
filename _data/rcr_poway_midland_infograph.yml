@@ -96,37 +96,6 @@ Features:
       - "Your Name"
       - "Partner Name"
 
-  - title: "RCR Educational Coding Game"
-    image: "capstone/rcr-educational-game.png"
-    link: "/capstone/rcr-poway-midland-game/"
-    alt: "RCR Educational Coding Game - Kids programming train movements with block-based code"
-    keyPoints:
-      - "Block-based train control programming"
-      - "Route planning and optimization puzzles"
-      - "Railroad history learning challenges"
-      - "Progress tracking for students"
-      - "Teacher dashboard for classroom use"
-      - "Difficulty levels for different ages"
-    subtitle: "Learn railroad concepts through code"
-    description: "An RCR-designed interactive coding game that teaches kids railroad operations and engineering concepts through fun, logic-based puzzles. Players program train movements, solve route challenges, and learn railroad history while developing computational thinking skills. Designed for school field trips and family education."
-    tech:
-      - "Block-based Programming"
-      - "Game Development"
-      - "Educational UX Design"
-      - "Progress Tracking Database"
-      - "Interactive Puzzles"
-      - "Scoring Algorithms"
-    impact:
-      - "Introduces 500+ students/year to programming concepts"
-      - "Makes railroad education engaging and interactive"
-      - "Supports STEM learning objectives for local schools"
-      - "Creates hands-on learning experience at the park"
-      - "Develops computational thinking skills"
-    status: "Phase 3 - Future"
-    team:
-      - "Your Name"
-      - "Partner Name"
-
   - title: "RCR Volunteer Management Portal"
     image: "capstone/rcr-volunteer-portal.png"
     link: "/capstone/rcr-poway-midland-volunteer/"
