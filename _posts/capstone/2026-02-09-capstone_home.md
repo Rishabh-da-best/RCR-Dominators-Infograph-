@@ -148,7 +148,7 @@ Below are the capstone infographic pages created by student groups. Click an ima
            <p class="text-sm text-gray-700">Modernizing the Poway-Midland Railroad website with interactive features, real-time train schedules, virtual tours, GPS tracking, educational coding games, and volunteer management tools.</p>
            <p class="text-xs text-gray-500 mt-2">Team: Rebecca, Cyrus, Rishabh</p>
        </div>
-   </div>
+
 
 </div> <!-- This closes the grid div -->
 

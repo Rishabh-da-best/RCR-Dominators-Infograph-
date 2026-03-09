@@ -31,8 +31,7 @@ Features:
       - "Improves mobile accessibility for on-site visitors"
     status: "Phase 1 - In Development"
     team:
-      - "Your Name"
-      - "Partner Name"
+    - Rebecca, Cyrus, Rishabh
 
   - title: "RCR Virtual Railroad Tour"
     image: "capstone/rcr-virtual-tour.png"
@@ -62,8 +61,7 @@ Features:
       - "Accessible to those with mobility limitations"
     status: "Phase 2 - Planned"
     team:
-      - "Your Name"
-      - "Partner Name"
+    - Rebecca, Cyrus, Rishabh
 
   - title: "RCR Live Train Tracker"
     image: "capstone/rcr-train-tracker.png"
@@ -93,8 +91,7 @@ Features:
       - "Creates engaging tech demonstration for visitors"
     status: "Phase 3 - Future"
     team:
-      - "Your Name"
-      - "Partner Name"
+    - Rebecca, Cyrus, Rishabh
 
   - title: "RCR Volunteer Management Portal"
     image: "capstone/rcr-volunteer-portal.png"
@@ -124,5 +121,4 @@ Features:
       - "Improves shift coverage and communication"
     status: "Phase 2 - Planned"
     team:
-      - "Your Name"
-      - "Partner Name"
+    - Rebecca, Cyrus, Rishabh
